@@ -1,65 +1,7 @@
-[
-    {
-        "Project1":
-            [
-                {
-                    "submodule1":["sub1intro.md","sub1contract.md"]
-                },
-                {
-                    "submodule2":["sub2intro.md","sub2contract.md"]
-                },
-                {
-                    "submodule3":["sub3intro.md","sub3contract.md"]
-                },
-                {
-                    "submodule4":["sub4intro.md","sub4contract.md"]
-                }
-            ],
-    
-            "Project2":
-            [
-                {
-                    "submodule1":["sub1intro.md","sub1contract.md"]
-                },
-                {
-                    "submodule2":["sub2intro.md","sub2contract.md"]
-                },
-                {
-                    "submodule3":["sub3intro.md","sub3contract.md"]
-                },
-                {
-                    "submodule4":["sub4intro.md","sub4contract.md"]
-                }
-            ],
-            "Project3":
-            [
-                {
-                    "submodule1":["sub1intro.md","sub1contract.md"]
-                },
-                {
-                    "submodule2":["sub2intro.md","sub2contract.md"]
-                },
-                {
-                    "submodule3":["sub3intro.md","sub3contract.md"]
-                },
-                {
-                    "submodule4":["sub4intro.md","sub4contract.md"]
-                }
-            ],
-            "Project4":
-            [
-                {
-                    "submodule1":["sub1intro.md","sub1contract.md"]
-                },
-                {
-                    "submodule2":["sub2intro.md","sub2contract.md"]
-                },
-                {
-                    "submodule3":["sub3intro.md","sub3contract.md"]
-                },
-                {
-                    "submodule4":["sub4intro.md","sub4contract.md"]
-                }
-            ]
-    }
-]
+{
+   "posts":[
+       {id:1,name:"sakhidad",email:"sakhidad"},
+       {id:2,name:"noor",email:"noor@gmail.com"},
+       
+   ]
+}
